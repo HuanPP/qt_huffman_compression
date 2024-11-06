@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_file_compress_FILE /Users/huan/file_compress/build/Desktop_arm_darwin_generic_mach_o_64bit-Debug/file_compress.app/Contents/MacOS/file_compress)
+set(__QT_DEPLOY_TARGET_file_compress_TYPE EXECUTABLE)
